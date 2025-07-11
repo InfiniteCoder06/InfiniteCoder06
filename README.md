@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Globe with Meridians" width="35" height="35" /> About Me:
-- 🌱 I'm currently learning on Python
+- 🌱 I'm currently learning on Express
 - ⚡Fun Fact : Coding will soon be as important as reading
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" height="20" /> Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/the.infinite.coder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_infinite_coder) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheUnknownCoder2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/infinite_code06) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/the.infinite.coder) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_infinite_coder) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheUnknownCoder2) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/infinite_code06) 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Stack:
 ### Frontend
 [![Front End](https://skillicons.dev/icons?i=html,css,js,react,next,flutter,tailwind)]()
 ### Backend
-[![Back End](https://skillicons.dev/icons?i=nodejs,dart,python,firebase,supabase)]()
+[![Back End](https://skillicons.dev/icons?i=nodejs,dart,python,firebase,supabase,django)]()
 ### Android
 [![Android](https://skillicons.dev/icons?i=java,kotlin,androidstudio)]()
 ### Others
