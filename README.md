@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Android
 [![Android](https://skillicons.dev/icons?i=java,kotlin,androidstudio)]()
 ### Others
-[![Others](https://skillicons.dev/icons?i=vscode,git,github,x)]()
+[![Others](https://skillicons.dev/icons?i=vscode,idea,git,github,x)]()
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=InfiniteCoder06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
